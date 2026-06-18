@@ -7,6 +7,7 @@
 ## Steps 
 - [x] design user flow 
 - [x] define data required
+- [ ] define sensitive data & encryption strategy
 - [ ] design api contracts
 - [ ] design architecture
 - [ ] design frontend
